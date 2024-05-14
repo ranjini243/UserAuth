@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { PiUserSquareThin } from "react-icons/pi";
 import { AiOutlineMail } from "react-icons/ai";
 import { RiLockPasswordLine } from "react-icons/ri";
-import '../App.css'
-
+import '../../App.css';
+// import {login} from './auth';
 
 const ShadowBox = ({ children }) => {
   return (
