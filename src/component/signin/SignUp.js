@@ -2,7 +2,7 @@ import React from 'react';
 import './Signin.css'; 
 import { Link } from 'react-router-dom';
 
-const SignIn = () => {
+const SignUp = () => {
     return (
         <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
             <div className="sm:mx-auto sm:w-full sm:max-w-sm">
@@ -58,4 +58,4 @@ const SignIn = () => {
     )
 }
 
-export default SignIn;
+export default SignUp;
