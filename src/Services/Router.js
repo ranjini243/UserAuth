@@ -3,7 +3,8 @@ import React from 'react'
 import Login from '../component/Login/Login';
 import Forgot from '../component/Forgot/Forgot';
 import Home from '../component/Home/Home';
-import SignUp from '../component/signup/SignUp';
+import SignUp from '../component/Signup/SignUp';
+
 
 const Routes = () => {
   return useRoutes(
